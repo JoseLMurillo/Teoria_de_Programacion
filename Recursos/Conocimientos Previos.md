@@ -1,11 +1,3 @@
----
-Reference:
-  - Información
-  - Recomendación
-person:
-  - Jose Murillo
-Status: true
----
 # Conocimientos Previos
 
 ### Conceptos Básicos de Informática
@@ -49,8 +41,6 @@ El desarrollo de software implica la creación y mantenimiento de aplicaciones y
 
 ---
 
-<aside style="background-color:SteelBlue; padding:10px; border-radius:10px">
-ℹ️ <b>Notas</b>: Al entender los diferentes pasos en el desarrollo de software encontraras un proceso para organizarte a la hora de programar. Mira como se aplica el desarrollo de software
-</aside>
+ℹ️ **Notas**: Al entender los diferentes pasos en el desarrollo de software encontraras un proceso para organizarte a la hora de programar. Mira como se aplica el desarrollo de software
 
-[Proceso de Codificación](Proceso%20de%20Codificación.md)
+[Proceso de Codificación](../Teoria/Proceso%20de%20Codificación.md)

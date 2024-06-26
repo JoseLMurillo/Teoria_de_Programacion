@@ -1,12 +1,3 @@
----
-Reference:
-  - Información
-  - Recomendación
-  - Teoria de programacion
-person:
-  - Jose Murillo
-Status: true
----
 # Proceso de Codificación
 
 En  [Conocimientos Previos](Conocimientos%20Previos.md) se menciona un proceso de codificación. La sugerencia es que tengas presente siempre este proceso al momento de enfrentarte a un código porque te facilitara el desarrollo del mismo:
@@ -52,7 +43,7 @@ segundoNumero = prompt("Ingresa el segundo numero");
 
 //Crea una alerta para mostrar el resultado
 alert(`La suma de ${primerNumero} y ${segundoNumero} es ${resultado}`);
-	```
+```
 
 - 🤔 **Análisis del código**:
 	Si analizas el código observaras que usamos diferentes cosas:
@@ -64,8 +55,7 @@ alert(`La suma de ${primerNumero} y ${segundoNumero} es ${resultado}`);
 - **🔨 Prueba:**
 	Esta etapa es para observar si hay algún error en tu código o si cumple con los requisitos que observaste en tu análisis.
 	
-	Por ejemplo, puedes ejecutar tu código dentro de la consola de navegación o carga desde un archivo HTML que este enlazado a tu archivo de JavaScript. [Como enlazar un HTML con JavaScript](Como%20enlazar%20un%20HTML%20con%20JavaScript%2006a6a66a90404f81b30253d5959aa366.md) [Plugins recomendados](../Plugins%20recomendados%20ecbce551cd524d6a9eae80c503f40043.md) 
-	
+	Por ejemplo, puedes ejecutar tu código dentro de la consola de navegación o carga desde un archivo HTML que este enlazado a tu archivo de JavaScript. [Como enlazar un HTML con JavaScript](Como%20enlazar%20un%20HTML%20con%20JavaScript.md) [Plugins recomendados](Plugins%20recomendados.md)
 	Observa si hay algún error en tu código y corrígelo. 
 
 - **🔧 Mantenimiento:**
