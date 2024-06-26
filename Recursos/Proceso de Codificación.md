@@ -52,7 +52,7 @@ segundoNumero = prompt("Ingresa el segundo numero");
 
 //Crea una alerta para mostrar el resultado
 alert(`La suma de ${primerNumero} y ${segundoNumero} es ${resultado}`);
-	```
+```
 
 - 🤔 **Análisis del código**:
 	Si analizas el código observaras que usamos diferentes cosas:
