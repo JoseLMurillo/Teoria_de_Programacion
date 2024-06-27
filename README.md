@@ -6,11 +6,13 @@ Aquí encontraras información que puede ser de ayuda para tu desarrollo en el p
 
 ℹ️ **Notion Tip:** Este recurso es información recopilada para estudiantes de programación y por algunos de ellos. En la parte de abajo podrás ver diferentes post hechos por nosotros y filtrados por todos, programación y recursos. Se libre de buscar en ellos.
 
-| 🎁 Recursos                                                                   | ❓ Preguntas Frecuentes ❓                                                                                            |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| - 😱 [Plugins recomendados](Recursos/Plugins%20recomendados.md)               | - ⤵️ [Como instalar Visual Studio Code](Preguntas%20frecuentes/Como%20instalar%20Visual%20Studio%20Code.md)         |
-| - 🤔 [Conocimientos Previos](Recursos/Conocimientos%20Previos.md)             | - 🔗 [Como enlazar un HTML con JavaScript](Preguntas%20frecuentes/Como%20enlazar%20un%20HTML%20con%20JavaScript.md) |
-| - 🔁 [0. Proceso de Codificación](Teoria/0.%20Proceso%20de%20Codificación.md) |                                                                                                                     |
+| 🎁 Recursos                                                                             | ❓ Preguntas Frecuentes ❓                                                                                            |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| - 😱 [Plugins recomendados](Recursos/Plugins%20recomendados.md)                         | - ⤵️ [Como instalar Visual Studio Code](Preguntas%20frecuentes/Como%20instalar%20Visual%20Studio%20Code.md)         |
+| - 🤔 [Conocimientos Previos](Recursos/Conocimientos%20Previos.md)                       | - 🔗 [Como enlazar un HTML con JavaScript](Preguntas%20frecuentes/Como%20enlazar%20un%20HTML%20con%20JavaScript.md) |
+| - 🔁 [0. Proceso de Codificación](Teoria/0.%20Proceso%20de%20Codificación.md)           |                                                                                                                     |
+| - ⌨️ [Curso gratis de mecanografía en español](https://www.typingclub.com/mecanografia) |                                                                                                                     |
+| - 🕹️ [Juego ZType](https://zty.pe/)                                                    |                                                                                                                     |
 
 # Teoría de Programación
 - 🔁 [0. Proceso de Codificación](Teoria/0.%20Proceso%20de%20Codificación.md)
