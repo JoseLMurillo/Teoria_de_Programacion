@@ -56,8 +56,6 @@ Hemos llegado a otra lista de actividades (no obligatorias) para que practiques 
 - [ ]  Declara una variable `esVacaciones` y pídele al usuario que ingrese `true` si está de vacaciones o `false` si no lo está. Si `esVacaciones` es `true`, muestra "¡Disfruta tus vacaciones!". Si es `false`, muestra "¡Espero que tengas un buen día de trabajo!".
 - [ ]  Pregunta al usuario cuál es su color favorito. Si responde "azul", muestra "El azul es un buen color". Para cualquier otro color, muestra "Tu color favorito es [color]".
 
-[https://reloj-alarma.es/cronometro/](https://reloj-alarma.es/cronometro/)
-
 ### Extra
 
 contar desde 1 hasta 100. Cada número debe imprimirse en la consola seguido de las siguientes reglas de juego:
@@ -70,7 +68,7 @@ La función debe pausar un segundo entre cada número utilizando
 USAR MODULO %
 
 ---
-## Buenas practicas de programación
+### Buenas practicas de programación
 
 Y vamos a poner en práctica nuestro conocimiento con otra lista de actividades (no obligatorias) para que practiques y refuerces aún más tu aprendizaje.
 
@@ -111,7 +109,7 @@ Con esto en mente, hemos creado una lista de actividades (no obligatorias) centr
 
 ---
 
-## Funciones
+## 2. Funciones
 
 Saber cómo usar funciones es uno de los conceptos fundamentales en la programación y el desarrollo de software. Las funciones desempeñan un papel crucial en la organización, modularización y reutilización del código.
 
@@ -125,7 +123,7 @@ Con eso en mente, hemos creado una lista de actividades (opcionales) centradas e
 - [ ]  Crear una función que reciba un número como parámetro y devuelva el resultado de multiplicar ese número por sí mismo.
 
 ---
-## Reiniciando el juego
+### Reiniciando el juego
 
 Desafíos: Saber cómo usar funciones es uno de los conceptos fundamentales en la programación y el desarrollo de software. Las funciones desempeñan un papel crucial en la organización, modularización y reutilización del código.
 
@@ -139,7 +137,7 @@ Con eso en mente, hemos creado una lista de actividades (opcionales) centradas e
 - [ ]  Crea una función que muestre en pantalla la tabla de multiplicar de un número dado como parámetro.
 
 ---
-## Listas
+### Listas
 
 Saber cómo usar las funciones es uno de los conceptos fundamentales en la programación y el desarrollo de software. Las funciones desempeñan un papel crucial en la organización, modularización y reutilización del código.
 

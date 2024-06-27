@@ -1,6 +1,6 @@
 # Teoría de programación JavaScript
 
-**⚠️ Antes de iniciar:** debes de conocer el proceso de Codificación [Proceso de Codificación](Teoria/Proceso%20de%20Codificación.md)
+**⚠️ Antes de iniciar:** debes de conocer el proceso de Codificación [0. Proceso de Codificación](0.%20Proceso%20de%20Codificación.md)
 
 ---
 # Que es programación y lógica de programación
@@ -16,12 +16,12 @@ La lógica de programación, por otro lado, es el conjunto de principios y técn
 
 ---
 
-ℹ️ La lógica y la teoría de la programación son fundamentales para desarrollar software eficiente y robusto. Aunque existen muchos lenguajes de programación, los conceptos básicos son **universales** y pueden aplicarse en cualquier lenguaje. A continuación, exploraremos estos conceptos utilizando **JavaScript** para ilustrar ejemplos junto a su parte en seudocódigo. [**Que Pseudocódigo**](Teoria/Que%20Pseudocódigo.md)
+ℹ️ La lógica y la teoría de la programación son fundamentales para desarrollar software eficiente y robusto. Aunque existen muchos lenguajes de programación, los conceptos básicos son **universales** y pueden aplicarse en cualquier lenguaje. A continuación, exploraremos estos conceptos utilizando **JavaScript** para ilustrar ejemplos junto a su parte en seudocódigo. [**Que Pseudocódigo**](1.%20Que%20es%20Pseudocódigo.md)
 
 ---
 
-- [ ]  [Variables](Teoria/Variables.md)
-- [ ]  [Tipos de datos](Teoria/Tipos%20de%20datos.md)
+- [ ]  [2. Variables](2.%20Variables.md)
+- [ ]  [3. Tipos de datos](3.%20Tipos%20de%20datos.md)
 - [ ]  
 
 ---

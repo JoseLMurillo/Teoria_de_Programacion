@@ -43,4 +43,4 @@ El desarrollo de software implica la creación y mantenimiento de aplicaciones y
 
 ℹ️ **Notas**: Al entender los diferentes pasos en el desarrollo de software encontraras un proceso para organizarte a la hora de programar. Mira como se aplica el desarrollo de software
 
-[Proceso de Codificación](../Teoria/Proceso%20de%20Codificación.md)
+[0. Proceso de Codificación](../Teoria/0.%20Proceso%20de%20Codificación.md)
