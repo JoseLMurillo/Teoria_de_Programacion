@@ -10,9 +10,10 @@ Aquí encontraras información que puede ser de ayuda para tu desarrollo en el p
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | - 😱 [Plugins recomendados](Recursos/Plugins%20recomendados.md)                         | - ⤵️ [Como instalar Visual Studio Code](Preguntas%20frecuentes/Como%20instalar%20Visual%20Studio%20Code.md)         |
 | - 🤔 [Conocimientos Previos](Recursos/Conocimientos%20Previos.md)                       | - 🔗 [Como enlazar un HTML con JavaScript](Preguntas%20frecuentes/Como%20enlazar%20un%20HTML%20con%20JavaScript.md) |
-| - 🔁 [0. Proceso de Codificación](Teoria/0.%20Proceso%20de%20Codificación.md)           |                                                                                                                     |
+| - 🔁 [0. Proceso de Codificación](Teoria/0.%20Proceso%20de%20Codificación.md)           | - 👉[Usar VSCode desde Web](Preguntas%20frecuentes/Usar%20VSCode%20desde%20Web.md)                                  |
 | - ⌨️ [Curso gratis de mecanografía en español](https://www.typingclub.com/mecanografia) |                                                                                                                     |
 | - 🕹️ [Juego ZType](https://zty.pe/)                                                    |                                                                                                                     |
+| - 🎹[Atajos de teclado](Recursos/Atajos%20de%20teclado.md)                          |                                                                                                                     |
 
 # Teoría de Programación
 - 🔁 [0. Proceso de Codificación](Teoria/0.%20Proceso%20de%20Codificación.md)
@@ -20,6 +21,12 @@ Aquí encontraras información que puede ser de ayuda para tu desarrollo en el p
 - 📦 [2. Variables](Teoria/2.%20Variables.md)
 - 🎏 [3. Tipos de datos](Teoria/3.%20Tipos%20de%20datos.md)
 - 😭 [4. Condicionales](Teoria/4.%20Condicionales.md)
+- 💥[5. Funciones](Teoria/5.%20Funciones.md)
+
+---
+# Recomendaciones extras
+Ten en cuenta que estas recomendaciones son dadas por externos por lo que ten cierto grado de discreción.
+- 🤔 [Recomendaciones Extras](Otros/Recomendaciones%20Extras.md)
 
 ---
 # Retos
@@ -39,7 +46,7 @@ Aquí encontraras información que puede ser de ayuda para tu desarrollo en el p
 - [ ] theme-clock 19
 - [ ] sticky-navbar 25
 - [ ] auto-text-effect 30
-- [ ] password-generator 31
+- [>] password-generator 31 **PARTE GRAFICA**
 - [ ] notes app 33
 - [ ] pokedex 37
 - [ ] password-strength-background 39

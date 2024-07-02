@@ -36,7 +36,7 @@ Hemos llegado a otra lista de actividades (no obligatorias) para que practiques 
 - [ ]  Crea un programa de cuenta progresiva. Pide un número y cuenta desde 0 hasta ese número utilizando un bucle 'while' en la consola del navegador.
 - [ ]  Crea un programa de cuenta **regresiva**. Pide un número y cuenta desde 0 hasta ese número utilizando un bucle 'while' en la consola del navegador.
 
-### Extras
+### Extras variables
 
 - [ ]  Crea una listas con 5 nombres diferentes y muestra por consola el tercer nombre.
 - [ ]  Crea una lista con tres numeros y calcula la suma de cada uno de ellos.
@@ -48,7 +48,7 @@ Hemos llegado a otra lista de actividades (no obligatorias) para que practiques 
 - [ ]  Declara una variable llamada `total` y asígnale el resultado de `precio` multiplicado por `cantidad`.
 - [ ]  Muestra una alerta con el valor de la variable `total`.
 
-### Extras
+### Extras condicionales
 
 - [ ]  Solicita al usuario que ingrese un número. Si el número es mayor que 10, muestra un mensaje que diga "El número es mayor que 10". De lo contrario, muestra "El número es 10 o menor".
 - [ ]  Pide al usuario que ingrese su edad. Si la edad es mayor o igual a 18, muestra "Eres mayor de edad". Si es menor, muestra "Eres menor de edad".
@@ -56,7 +56,7 @@ Hemos llegado a otra lista de actividades (no obligatorias) para que practiques 
 - [ ]  Declara una variable `esVacaciones` y pídele al usuario que ingrese `true` si está de vacaciones o `false` si no lo está. Si `esVacaciones` es `true`, muestra "¡Disfruta tus vacaciones!". Si es `false`, muestra "¡Espero que tengas un buen día de trabajo!".
 - [ ]  Pregunta al usuario cuál es su color favorito. Si responde "azul", muestra "El azul es un buen color". Para cualquier otro color, muestra "Tu color favorito es [color]".
 
-### Extra
+### Extra ciclos
 
 contar desde 1 hasta 100. Cada número debe imprimirse en la consola seguido de las siguientes reglas de juego:
 
@@ -107,8 +107,74 @@ Con esto en mente, hemos creado una lista de actividades (no obligatorias) centr
 - [ ]  Crea una función que muestre una alerta con el mensaje: "Yo amo JS" siempre que se presione el botón "Alerta".
 - [ ]  Al hacer clic en el botón "suma", pide 2 números y muestra el resultado de la suma en una alerta.
 
----
+# Reto "complejo"
+🚨 Este reto se considera complejo gracias a ciertos "errores" internos de JavaScript que hacen que se deba de abordar el ejercicio de cierta forma.
+El error al que se hace referencia es:
+```js
+console.log(0.1 + 0.2); //El resultado es 0.30000000000000004;
+```
 
+Escribe un programa en JavaScript que simule una caja de tienda. El programa debe:
+- Solicitar al usuario que ingrese el total de la compra.
+- Solicitar al usuario que ingrese la cantidad pagada.
+- Calcular el cambio que se debe devolver.
+- Mostrar el cambio desglosado en diferentes denominaciones de monedas (ej. billetes de $100, $50, $20, $10, monedas de $5, $2, $1, $0.5, $0.25).
+- 
+**Se recomienda usar:** Ciclos, condicionales, variables, listas.
+
+## Una posible Solución :
+```js
+// Solicita valores
+let total = parseFloat(prompt("Ingrese el valor total a pagar"));
+let cantidad = parseFloat(prompt("Ingrese el valor recibido"));
+
+if (cantidad < total) {
+    alert("Llamar a la policía jejejeje");
+    console.log(cantidad < total);
+} else {
+    // Acumula denominaciones de moneda
+    let calculo = 0;
+    let denominacionesDevolucion = [];
+    const monedas = [100, 50, 20, 10, 5, 2, 1, 0.5, 0.25]; // Denominaciones de monedas
+
+    // Manejar el ciclo
+    let contador = 0;
+    let condicionSalida = 0;
+
+    while (calculo < (cantidad - total)) {
+        if (calculo + monedas[contador] <= cantidad - total) {
+            denominacionesDevolucion.push(monedas[contador]);
+            calculo += monedas[contador];
+        }
+
+        if (calculo === cantidad - total) {
+            break;
+        }
+
+        if (contador >= (monedas.length - 1)) {
+            contador = 0;
+        } else {
+            contador++;
+        }
+
+        // Salva el PC por favor
+        if (condicionSalida > 100) {
+            console.log("Se rompió el código");
+            break;
+        }
+        condicionSalida++;
+    }
+
+    let resultado = "El cambio es:\n";
+    for (let i = 0; i < denominacionesDevolucion.length; i++) {
+        resultado += `${denominacionesDevolucion[i]} `;
+    }
+    alert(resultado);
+    console.log(`El total devuelto es: ${calculo}, debes devolver en valores de ${denominacionesDevolucion}`);
+}
+```
+
+---
 ## 2. Funciones
 
 Saber cómo usar funciones es uno de los conceptos fundamentales en la programación y el desarrollo de software. Las funciones desempeñan un papel crucial en la organización, modularización y reutilización del código.
