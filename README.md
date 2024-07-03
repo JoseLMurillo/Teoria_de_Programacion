@@ -23,6 +23,17 @@ Aquí encontraras información que puede ser de ayuda para tu desarrollo en el p
 - 😭 [4. Condicionales](Teoria/4.%20Condicionales.md)
 - 💥[5. Funciones](Teoria/5.%20Funciones.md)
 
+## Html y Css
+- 🌐 [1. Html Basico](html%20y%20css/1.%20Html%20Basico.md)
+
+---
+# Ejercicios con @jairolopezlon
+@jairolopezlon
+- 🤯 [Play list](https://www.youtube.com/playlist?list=PLQIwTTh4dpbKeA9VbWijI_mO_OqT27-Hk)
+- 🤑 [Sistema de caja registradora](https://github.com/jairolopezlon/alura-market?tab=readme-ov-file#readme)
+
+[JairoLopezGitHub](https://github.com/jairolopezlon)
+
 ---
 # Recomendaciones extras
 Ten en cuenta que estas recomendaciones son dadas por externos por lo que ten cierto grado de discreción.
