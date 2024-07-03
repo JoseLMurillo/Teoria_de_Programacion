@@ -32,6 +32,7 @@ Ten en cuenta que estas recomendaciones son dadas por externos por lo que ten ci
 # Retos
 ## Nivel Principiante
 - 💪 [Retos](Retos/Retos.md)
+- 💪 [Retos variable, condicionales y ciclos](Retos/Retos%20variable,%20condicionales%20y%20ciclos.md)
 
 ---
 ## "Avanzado"

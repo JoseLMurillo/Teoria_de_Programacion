@@ -1,0 +1,16 @@
+1. Pues seguimos con los números. Escribe un script que dado un número nos devuelva true si es un número par y false si es un número impar. **Operador ternario**.  
+2. Una tortilla de patatas lleva 200 gramos de patatas por persona. Por cada kilo de patatas se necesitan 5 huevos y 300 gramos de cebolla. Escribe un script que dado el número de comensales calcule las cantidades de ingredientes necesarias.
+3. Crea un programa que pida la nota de un estudiante en los tres trimestres del curso y calcule la nota promedio. El resultado que dará será suspenso si la media es menor de 5, aprobado si está entre 5 y 7 y  Notable por encima de 7.  
+4. Este ejercicio es todo un clásico si lo haces a la primera y sin tardar mucho, puedes estar seguro: entiendes las variables.  Tienes que escribir un programa que intercambie el valor de dos variables. Al final la primera variable debe tener el valor de la segunda y la segunda el valor de la primera. No vale usar arrays ni asignación múltiple .
+5. En este script debes pedir al usuario un número de dos dígitos y debes devolver el número de unidades y de decenas, o sea, cada dígito del número. Usa solo operaciones aritméticas. Recuerda si divides un número entre 10 el cociente entero es el número de decenas y el resto es el número de unidades.
+6. Desarrolla un juego simple donde el programa elija un número aleatorio entre 1 y 10, y el usuario tenga que adivinarlo. El programa debe dar pistas (mayor, menor, o correcto) hasta que el usuario adivine el número. Tres intentos.
+7. Escribe un código que solicite al usuario un valor numérico, luego que calcule el factorial de ese numero. Para calcular el factorial de un numero se multiplican todos los dígitos anteriores a este. Ejemplo el factorial de 4 (**se representa !4**) es 4*3*2*1.
+8. Programa un script que pida al usuario que teclee 4 números (uno cada vez). Con esos números el programa deberá calcular la media aritmética. O sea la suma de los 4 números dividida entre 4.
+9. En una sala de juegos existen tre salas: Consolas, Juegos 2D, Juegos 3D, Realidad Virtual. Si un usuario paga  4 créditos puede acceder a todas, si paga 3 solo podrá acceder a las tres primeras, si paga 2 a las dos primeras y si paga 1 solo a la primera sala. **Se sugiere usar ciclos y listas**.
+10. Un comerciante hace descuentos a sus clientes de la siguiente forma:  
+	- Si ha comprado menos de 100 euros no hay descuento  
+	- Si la compra está entre 100 y 300 euros le descuenta un 5%  
+	- Si la compra está por encima de 300 hasta 500 euros le descuenta un 10%  
+	- Si la compra supera los 400 euros le descuenta un 15%
+11. Se trata de que dado un número entero el script muestre una cuenta atrás, es decir, una lista de números separados por comas desde el número tecleado hasta el 0.
+12.  Se trata de dibujar un triángulo rectángulo con asteriscos. El usuario tecleará un valor entero, el programa escribirá con asteriscos tantas lineas como diga ese número. Cada linea estará formada por una serie de asterisco ( * ) tan larga como diga el número de línea en el que está. Para separar una linea de la siguiente en consola. En este ejercicio usa **console.log**
