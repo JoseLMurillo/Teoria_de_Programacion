@@ -44,6 +44,7 @@ Ten en cuenta que estas recomendaciones son dadas por externos por lo que ten ci
 ## Nivel Principiante
 - 💪 [Retos](Retos/Retos.md)
 - 💪 [Retos variable, condicionales y ciclos](Retos/Retos%20variable,%20condicionales%20y%20ciclos.md)
+- 💪 [Reto tic tac toe variables condicionales ciclos](Retos/Reto%20tic%20tac%20toe%20variables%20condicionales%20ciclos.md)
 
 ---
 ## "Avanzado"
