@@ -2,9 +2,19 @@
 
 ![Vistas al repositorio](https://img.shields.io/github/watchers/JoseLMurillo/Teoria_de_Programacion.svg?style=flat-square)
 
-Aquí encontraras información que puede ser de ayuda para tu desarrollo en el programa Oracle y tu vida como desarrollador.
+> Aquí encontraras información que puede ser de ayuda para tu desarrollo en el programa Oracle y tu vida como desarrollador.
 
-ℹ️ **Notion Tip:** Este recurso es información recopilada para estudiantes de programación y por algunos de ellos. En la parte de abajo podrás ver diferentes post hechos por nosotros y filtrados por todos, programación y recursos. Se libre de buscar en ellos.
+ℹ️ **GitHub Tip:** Este recurso es información recopilada para estudiantes de programación y por algunos de ellos. En la parte de abajo podrás ver diferentes post hechos por nosotros y filtrados por todos, programación y recursos. Se libre de buscar en ellos.
+
+# Calendario Tentativo Julio
+
+| Lunes 08                            | Martes 09                    | Miercoles 10                                              | Jueves 11                          | Viernes 12                             |
+| ----------------------------------- | ---------------------------- | --------------------------------------------------------- | ---------------------------------- | -------------------------------------- |
+| ⭐Inicio tema **FUNCIONES Y LISTAS** | ✅Entrega primer curso Alura. | 📡Curso funciones y listas en 5 días con `@jairolopezlon` |                                    |                                        |
+|                                     |                              | 1️⃣ Primera reunión @jairolopezlon                        | 2️⃣ Segunda reunión @jairolopezlon | 3️⃣ Tercera reunión con @jairolopezlon |
+
+---
+# Contenido
 
 | 🎁 Recursos                                                                             | ❓ Preguntas Frecuentes ❓                                                                                            |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +54,7 @@ Ten en cuenta que estas recomendaciones son dadas por externos por lo que ten ci
 ## Nivel Principiante
 - 💪 [Retos](Retos/Retos.md)
 - 💪 [Retos variable, condicionales y ciclos](Retos/Retos%20variable,%20condicionales%20y%20ciclos.md)
-- 💪 [Reto tic tac toe variables condicionales ciclos](Retos/Reto%20tic%20tac%20toe%20variables%20condicionales%20ciclos.md)
+- 💪 [Reto tic tac toe variables condicionales ciclos](https://github.com/JoseLMurillo/tictactoe)
 
 ---
 ## "Avanzado"
