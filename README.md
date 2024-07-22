@@ -6,13 +6,6 @@
 
 ℹ️ **GitHub Tip:** Este recurso es información recopilada para estudiantes de programación y por algunos de ellos. En la parte de abajo podrás ver diferentes post hechos por nosotros y filtrados por todos, programación y recursos. Se libre de buscar en ellos.
 
-# Calendario Tentativo Julio
-
-| Lunes 08                            | Martes 09                    | Miercoles 10                                              | Jueves 11                          | Viernes 12                             |
-| ----------------------------------- | ---------------------------- | --------------------------------------------------------- | ---------------------------------- | -------------------------------------- |
-| ⭐Inicio tema **FUNCIONES Y LISTAS** | ✅Entrega primer curso Alura. | 📡Curso funciones y listas en 5 días con `@jairolopezlon` |                                    |                                        |
-|                                     |                              | 1️⃣ Primera reunión @jairolopezlon                        | 2️⃣ Segunda reunión @jairolopezlon | 3️⃣ Tercera reunión con @jairolopezlon |
-
 ---
 # Contenido
 
@@ -23,7 +16,8 @@
 | - 🔁 [0. Proceso de Codificación](Teoria/0.%20Proceso%20de%20Codificación.md)           | - 👉[Usar VSCode desde Web](Preguntas%20frecuentes/Usar%20VSCode%20desde%20Web.md)                                  |
 | - ⌨️ [Curso gratis de mecanografía en español](https://www.typingclub.com/mecanografia) |                                                                                                                     |
 | - 🕹️ [Juego ZType](https://zty.pe/)                                                    |                                                                                                                     |
-| - 🎹[Atajos de teclado](Recursos/Atajos%20de%20teclado.md)                          |                                                                                                                     |
+| - 🎹[Atajos de teclado](Recursos/Atajos%20de%20teclado.md)                              |                                                                                                                     |
+| - 📦[Practica Flexbox](https://flexboxfroggy.com/#es)                                   |                                                                                                                     |
 
 # Teoría de Programación
 - 🔁 [0. Proceso de Codificación](Teoria/0.%20Proceso%20de%20Codificación.md)
