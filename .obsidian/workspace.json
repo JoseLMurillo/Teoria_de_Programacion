@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "db13da3adfd6f688",
+    "type": "split",
+    "children": [
+      {
+        "id": "d12fc5e32c817363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a672bd6191bf3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos/Proyecto de practica - Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19022310a1ae0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos/Flow/Api Localstorage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d85bf914256718d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos/Flow/Plan de desarrollo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66a1d5fafa55ebfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b3350b566ce9577",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "366783a47b21bebe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75a94de9023960c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ac47d9e39bb4b5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0eb26365d7fbb726",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eaf9f7ea96cb537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1efbc3b43c7c413b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Retos/Proyecto de practica - Flow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87f3b14877aa5a1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Retos/Proyecto de practica - Flow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dac835468ea60ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdd7b83466ed8efd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Retos/Proyecto de practica - Flow.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "366783a47b21bebe",
+  "lastOpenFiles": [
+    "README.md",
+    "Retos/Flow/Resultados de la practica.md",
+    "Retos/Proyecto de practica - Flow.md",
+    "Retos/Retos.md",
+    "Retos/Flow/Proyecto de practica - Flow.md",
+    "Retos/Flow/Lista de nombres.md",
+    "Retos/Flow/API Drag and Drop.md",
+    "Teoria/2. Variables.md",
+    "Retos/Flow/Api Localstorage.md",
+    "Retos/Flow/Plan de desarrollo.md",
+    "Retos/Flow/Ramas Github.md",
+    "Retos/Flow/Programación Orientada a Objetos.md",
+    "Retos/Flow/Metodologia Scrum.md",
+    "En proceso/Clases y objetos.md",
+    "Recursos/Practica Flexbox.md",
+    "En proceso/Metodo Prompt y alert.md",
+    "En proceso/Estilos CSS basicos.md",
+    "Retos/Reto tic tac toe variables condicionales ciclos.md",
+    "Retos/Cerveza de Café/Estructura.md",
+    "Retos/Cerveza de Café/Reto Grupal (Proyecto Cervezas de Café).md",
+    "Retos/Flow",
+    "Retos/Cerveza de Café",
+    "Teoria/6. Bucles.md"
+  ]
+}

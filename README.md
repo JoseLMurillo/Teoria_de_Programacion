@@ -31,12 +31,11 @@
 - 🌐 [1. Html Basico](html%20y%20css/1.%20Html%20Basico.md)
 
 ---
-# Ejercicios con @jairolopezlon
-@jairolopezlon
-- 🤯 [Play list](https://www.youtube.com/playlist?list=PLQIwTTh4dpbKeA9VbWijI_mO_OqT27-Hk)
-- 🤑 [Sistema de caja registradora](https://github.com/jairolopezlon/alura-market?tab=readme-ov-file#readme)
+# Proyectos de practica
 
-[JairoLopezGitHub](https://github.com/jairolopezlon)
+| **Flow - Un trello personal**                                                                                                                                                                                                  | **Sistema de caja registradora - @jairolopezlon**                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔥🔥 [Proyecto de practica - Flow](Retos/Proyecto%20de%20practica%20-%20Flow.md)<br><br>- Trabajo en equipo<br>- Uso de POO<br>- Scrum - Historias de usuario<br>- Git - Ramas comunes<br>- Apis - localstorage, drag and drop | - 🤯 [Play list](https://www.youtube.com/playlist?list=PLQIwTTh4dpbKeA9VbWijI_mO_OqT27-Hk)<br>- 🤑 [Sistema de caja registradora](https://github.com/jairolopezlon/alura-market?tab=readme-ov-file#readme)<br><br>[JairoLopezGitHub](https://github.com/jairolopezlon)<br> |
 
 ---
 # Recomendaciones extras
@@ -49,6 +48,7 @@ Ten en cuenta que estas recomendaciones son dadas por externos por lo que ten ci
 - 💪 [Retos](Retos/Retos.md)
 - 💪 [Retos variable, condicionales y ciclos](Retos/Retos%20variable,%20condicionales%20y%20ciclos.md)
 - 💪 [Reto tic tac toe variables condicionales ciclos](https://github.com/JoseLMurillo/tictactoe)
+- 🔥 [Proyecto de practica - Flow](Retos/Proyecto%20de%20practica%20-%20Flow.md)
 
 ---
 ## "Avanzado"
